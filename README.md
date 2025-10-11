@@ -27,5 +27,5 @@ A project to predict survival of passangers based on 7 features, and predict if 
 - optimized model performance by tuning max_depth and criterion parameters.
 
 
-[View Notebook (Tennis)](DecisionTreeProjectTitanic\DescisionTreeSimpleData.ipynb)
-[View Notebook (Titanic)](DecisionTreeProjectTitanic\DescisionTreeTitanic.ipynb)
+[View Notebook (Tennis)](DecisionTreeProjectTitanic/DescisionTreeSimpleData.ipynb)
+[View Notebook (Titanic)](DecisionTreeProjectTitanic/DescisionTreeTitanic.ipynb)
